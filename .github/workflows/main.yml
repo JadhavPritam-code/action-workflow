@@ -8,6 +8,6 @@ jobs:
  demo:
   runs-on: ubuntu-latest
 
-steps:
- -name: greetings
-  run: echo "hello pritam"
+   steps:
+    -name: greetings
+     run: echo "hello pritam"
